@@ -5,6 +5,7 @@
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtkanlvdnMwcTc5NGZsbGNzbXY0MWJ6MnhpZWIwNno4aTJwY21hcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -43,13 +44,16 @@
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
 </div>
+
 ###
 
 
 
 
-## Thank you for visiting my GitHub profile. The projects listed below demonstrate my skills and dedication for data science. Each repository includes a comprehensive README file in which I've systematically outlined the project objectives, methodologies, and step-by-step instructions for replicating the work. These projects demonstrate not only my technical abilities, but also my dedication to clarity, precision, and delivering effective solutions. I encourage you to read the README documentation for each project, which includes a detailed walkthrough of the process, tools used, and valuable insights gained. I am confident that my work will demonstrate my ability to tackle complex problems with both creativity and analytical rigor.
-
+###
+Thank you for visiting my GitHub profile. The projects listed below demonstrate my skills and dedication for data science. Each repository includes a comprehensive README file in which I've systematically outlined the project objectives, methodologies, and step-by-step instructions for replicating the work. These projects demonstrate not only my technical abilities, but also my dedication to clarity, precision, and delivering effective solutions. 
+I encourage you to read the README documentation for each project, which includes a detailed walkthrough of the process, tools used, and valuable insights gained. I am confident that my work will demonstrate my ability to tackle complex problems with both creativity and analytical rigor. 
+###
 
 
 ## My Resume :  https://drive.google.com/file/d/1XvTgQsxhsWdYmQmkY12EXyjJR2nePtcl/view?usp=sharing
