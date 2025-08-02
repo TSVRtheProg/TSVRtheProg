@@ -66,9 +66,7 @@ I encourage you to read the README documentation for each project, which include
 ###
 
 
-## My Resume  
- 
- **[My Resume](https://drive.google.com/file/d/1ismDlYexseE3SRvUGIw-jEqaI-1VjLMR/view?usp=drive_link)**
+
 
 
 
