@@ -1,4 +1,4 @@
-<h2 align="left">Hi, my name is Karthikeya. I'm an aspiring data scientist ready to apply my knowledge of advanced data analytics, machine learning, deep learning, natural language processing (NLP), and statistics. I'm passionate about developing unique solutions and contributing to technical growth. I am skilled at working with cross-functional teams to deliver significant projects. Ready to use my Python, SQL, and data visualization talents to make waves in data science careers.</h2>
+<h2 align="left">Hi, my name is Karthikeya. I'm an aspiring data scientist ready to apply my knowledge of advanced data analytics, machine learning and statistics. I'm passionate about developing unique solutions and contributing to technical growth. I am skilled at working with cross-functional teams to deliver significant projects. Ready to use my Python, SQL, and data visualization talents to make waves in data science careers.</h2>
 
 ###
 
