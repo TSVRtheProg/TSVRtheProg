@@ -1,4 +1,4 @@
-<h2 align="left">Hi, my name is Karthikeya. I'm an aspiring data scientist ready to apply my knowledge of advanced data analytics, machine learning and statistics. I'm passionate about developing unique solutions and contributing to technical growth. I am skilled at working with cross-functional teams to deliver significant projects. Ready to use my Python, SQL, and data visualization talents to make waves in data science careers.</h2>
+<h2 align="left">Hi, I’m Karthikeya. I’m building my career as a Data Analyst, with a focus on turning data into clear stories that help teams make smarter decisions. I enjoy working with Excel and SQL to dig into the details, and I use tools like Power BI and Tableau to bring those insights to life through visuals that actually make sense to people. I like working with different teams, understanding their challenges, and using data to solve real problems. For me, data analysis isn’t just about numbers—it’s about finding patterns, asking the right questions, and creating solutions that move things forward..</h2>
 
 ###
 
