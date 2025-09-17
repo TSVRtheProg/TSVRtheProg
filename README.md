@@ -71,4 +71,4 @@ I encourage you to read the README documentation for each project, which include
 
 
 
-## As a human, I can't be everywhere at once, so I let the machine do the work—after all, it's practically omnipresent with its data crunching power! 😎
+## As a data analyst, I don’t need to guess—I let the data do the talking. With Excel, SQL, and dashboards in Power BI or Tableau, I can spot patterns and insights faster than you can say ‘pivot table.’
